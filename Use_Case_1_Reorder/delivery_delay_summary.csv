@@ -1,0 +1,7 @@
+Metric,Value
+Total orders,6000.0
+Processing delayed orders,2151.0
+Delivery delayed orders,3344.0
+Average processing days,9.05
+Average delivery days,4.02
+Average total delivery days,13.01

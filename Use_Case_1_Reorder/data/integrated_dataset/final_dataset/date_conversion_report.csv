@@ -1,0 +1,9 @@
+table,column,missing_dates_after_conversion
+inventory,date,0
+purchase_orders,order_date,0
+purchase_orders,expected_delivery_date,0
+purchase_orders,actual_delivery_date,90
+returns,return_date,0
+sales_orders,order_date,0
+sales_orders,ship_date,0
+sales_orders,delivery_date,177

@@ -1,0 +1,6 @@
+warehouse_id,total_orders,average_processing_days,average_delivery_days,average_total_days
+WH01,1188,7.81,3.98,11.83
+WH02,1225,8.83,4.03,12.85
+WH03,1216,10.87,4.06,15.07
+WH04,1227,9.01,4.01,12.71
+WH05,1144,8.67,4.01,12.51

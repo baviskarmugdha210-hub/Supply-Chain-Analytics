@@ -1,0 +1,13 @@
+supplier_id,supplier_name,total_orders,avg_quoted_lead_days,avg_actual_lead_days,max_actual_lead_days,lead_time_std,avg_delay_days
+1,Pfeffer - Grant,69,20.0,20.32,21,0.47,0.32
+2,Cruickshank - Christiansen,59,15.0,16.19,18,0.88,1.19
+3,Parisian Inc,68,17.0,18.88,22,1.55,1.88
+4,"Kulas, Gusikowski and Schaefer",76,24.0,27.57,34,3.21,3.57
+5,"Grimes, Kshlerin-Wilderman and Bosco",72,14.0,16.35,21,2.12,2.35
+6,"Klocko, Koelpin and Abernathy",78,34.0,42.45,56,6.67,8.45
+7,Doyle Group,72,39.0,49.35,68,9.42,10.35
+8,Vandervort - Ankunding,74,44.0,57.64,83,12.35,13.64
+9,"Hilpert, Metz and Swaniawski",74,13.0,17.53,26,3.89,4.53
+10,"Wolf, Rau and Walker",73,25.0,35.51,52,8.5,10.51
+11,Pfeffer Group,56,37.0,51.75,84,13.47,14.75
+12,"Erdman, Marks and Heathcote",69,15.0,22.06,35,5.63,7.06
