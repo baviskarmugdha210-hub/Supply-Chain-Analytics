@@ -1,8 +1,0 @@
-table,rows,columns,duplicate_rows,missing_values
-inventory,10600,7,0,5130
-products,80,7,0,4
-purchase_orders,1800,10,0,1346
-returns,295,6,0,69
-sales_orders,6000,9,0,4288
-suppliers,12,5,0,3
-warehouses,5,4,0,0

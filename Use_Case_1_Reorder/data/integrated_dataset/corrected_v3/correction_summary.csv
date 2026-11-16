@@ -1,8 +1,0 @@
-table,original_rows,final_rows,original_columns,missing_values_in_original_columns,parsed_date_columns
-inventory,10759,10600,7,390,1
-products,84,80,7,4,0
-purchase_orders,1836,1800,10,169,3
-returns,295,295,6,12,1
-sales_orders,6090,6000,9,339,3
-suppliers,12,12,5,3,0
-warehouses,5,5,4,0,0
